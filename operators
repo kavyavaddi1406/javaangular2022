@@ -1,7 +1,0 @@
-public class Arrays {
-    public static void main(String[]args) {
-        int a=100, b=200,
-        Int=a+b;
-    System.out.println("print a+b");
-    }
-}
